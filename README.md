@@ -1,3 +1,3 @@
-# My Awesome Book
+# 如何改进数字艺术家的工具
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**SULL’EVOLUZIONE E IL FUTURO DEGLI STRUMENTI DELL’ARTISTA DIGITALE**

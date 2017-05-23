@@ -1,6 +1,6 @@
 # 声明
 
-这是**" 如何改进数字艺术家的工具 "** 是 **" SULL’EVOLUZIONE E IL FUTURO DEGLI STRUMENTI DELL’ARTISTA DIGITALE "** , 的中文翻译版本 , 该论文第一版本已于2015收录于[佛罗伦萨美术学院](http://www.accademia.firenze.it/en/)
+这是**" 如何改进数字艺术家的工具 "** 是 **" SULL’EVOLUZIONE E IL FUTURO DEGLI STRUMENTI DELL’ARTISTA DIGITALE "** , 的中文翻译版本 , 该论文第一版本已于2015收录于[佛罗伦萨美术学院](http://www.accademia.firenze.it/en/) 
 
 ## 论文简述
 

@@ -6,7 +6,7 @@
 
 ### 文艺复兴--工具与艺术家 {#-0}
 
-![E:\data\tesi\img\392.jpg](E:\data\tesi\GITCONV\export\assets\edatatesiimg392jpg.jpeg)
+![E:\data\tesi\img\392.jpg](\assets\edatatesiimg392jpg.jpeg)
 
 文艺复兴时期出现的自画像展示了他们作为被上帝选择出来的特殊人群，优雅而高贵的形象。在 1566-68年的自画像中，Giorgio Vasari穿着高贵的服饰，带着金项链 ，请注意左下角他手里拿着笔，旁边还放着圆规，这既表明了Vasari是一名掌握美学的艺术家同时还是一名掌握数学的人文主义者。Giorgio Vasari尝试塑造神化的自己，他是通过手握的工具与上帝沟通，告诉人们他们像上帝一样拥有创造力，使自己也能成为被膜拜的对象。
 
